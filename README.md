@@ -8,15 +8,12 @@
 
 [![sphinx](https://github.com/engineerjoe440/ElectricPy/actions/workflows/sphinx-build.yml/badge.svg?branch=master)](https://github.com/engineerjoe440/ElectricPy/actions/workflows/sphinx-build.yml)
 [![Documentation Status](https://readthedocs.org/projects/electricpy/badge/?version=latest)](https://electricpy.readthedocs.io/en/latest/?badge=latest)
-![Tox Import Test](https://github.com/engineerjoe440/ElectricPy/workflows/Tox%20Tests/badge.svg)
-
 [![pytest](https://github.com/engineerjoe440/ElectricPy/actions/workflows/pytest.yml/badge.svg?branch=master)](https://github.com/engineerjoe440/ElectricPy/actions/workflows/pytest.yml)
 [![pydocstyle](https://github.com/engineerjoe440/ElectricPy/actions/workflows/pydocstyle.yml/badge.svg?branch=master)](https://github.com/engineerjoe440/ElectricPy/actions/workflows/pydocstyle.yml)
 ![Coverage](https://raw.githubusercontent.com/engineerjoe440/ElectricPy/gh-pages/coverage.svg)
 
 [![](https://img.shields.io/pypi/v/electricpy.svg?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/electricpy/)
 [![](https://pepy.tech/badge/electricpy)](https://pepy.tech/project/electricpy)
-[![](https://img.shields.io/github/stars/engineerjoe440/electricpy?logo=github)](https://github.com/engineerjoe440/electricpy/)
 [![](https://img.shields.io/pypi/l/electricpy.svg?color=blue)](https://github.com/engineerjoe440/electricpy/blob/master/LICENSE.txt)
 
 [![Matrix](https://img.shields.io/matrix/electricpy:stanleysolutionsn.com?label=%23electricpy:stanleysolutionsnw.com&logo=matrix&server_fqdn=matrix.stanleysolutionsnw.com&style=for-the-badge)](https://matrix.to/#/#electricpy:stanleysolutionsnw.com)
