@@ -167,7 +167,7 @@ opportunity to take advantage of this project.
 
 For more information regarding this resource, please contact Joe Stanley
 
-- <engineerjoe440@yahoo.com>
+- <saivkumar1997@gmail.com>
 
 ## License and Usage
 
